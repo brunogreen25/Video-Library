@@ -1,0 +1,5 @@
+A|B|a|a|80
+2|2|2|2|10
+Bruno|Jerkovic|brunoj|12345|80
+4|4|4|4|100
+Bruno|Jerković|brunojerkovic|Lozinka|100
